@@ -12,15 +12,15 @@ Para probar este proyecto podes descargarlo como un archivo .zip o desde git bas
 git clone https://github.com/mmiguez77/SPAenJS
 ```
 Para mayor información chequear el siguiente link al web site de **GIT**.
-https://git-scm.com/book/es/v2/Fundamentos-de-Git-Obteniendo-un-repositorio-Git
+*https://git-scm.com/book/es/v2/Fundamentos-de-Git-Obteniendo-un-repositorio-Git
 
 ### Requisitos 📋
 
 * Utilizar un IDE, particularmente recomiendo VSC.
-	- https://code.visualstudio.com/
+	- *https://code.visualstudio.com/
 
 * Descargar y aplicar la extensión live server.
-	-	https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+	- *https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 * Dentro de VSC, iniciar index.html con live server.
 
@@ -32,6 +32,4 @@ https://git-scm.com/book/es/v2/Fundamentos-de-Git-Obteniendo-un-repositorio-Git
 * BOOTSTRAP
 
 ## Wiki 📖
-
-Podes leer algo de información adicional sobre SPA en:
-https://es.wikipedia.org/wiki/Single-page_application
+* Información adicional sobre SPA en: *https://es.wikipedia.org/wiki/Single-page_application
