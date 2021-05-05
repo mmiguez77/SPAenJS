@@ -16,8 +16,13 @@ https://git-scm.com/book/es/v2/Fundamentos-de-Git-Obteniendo-un-repositorio-Git
 
 ### Requisitos 📋
 
-Solamente un navegador web (como Chrome o Mozilla).
-Abrir archivo index.html en la carpeta raíz.
+* Utilizar un IDE, particularmente recomiendo VSC.
+	- https://code.visualstudio.com/
+
+* Descargar y aplicar la extensión live server.
+	-	https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+* Dentro de VSC, iniciar index.html con live server.
 
 ## Construido con 🛠️
 
