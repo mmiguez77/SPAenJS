@@ -24,6 +24,7 @@ Abrir archivo index.html en la carpeta raíz.
 * HTML
 * CSS
 * JAVASCRIPT
+* BOOTSTRAP
 
 ## Wiki 📖
 
